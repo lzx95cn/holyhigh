@@ -1,5 +1,6 @@
 BEGIN:VCALENDAR
 METHOD:PUBLISH
+PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:好说游戏时光
 PRODID:-//Apple Inc.//macOS 12.4//EN
